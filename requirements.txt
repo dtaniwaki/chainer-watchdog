@@ -1,0 +1,3 @@
+chainer>=3.0,<5dev
+six>=1.11.0,<1.12dev
+dateutils>=0.6.6,<1dev

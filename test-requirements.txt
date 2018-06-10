@@ -1,0 +1,7 @@
+pytest>=3.0,<3.3
+pytest-cov>=2.5,<3dev
+pytest-html>=1.15.2,<2dev
+pytest-describe>=0.11,<1dev
+mock>=2.0.0,<3dev
+slackclient>=1.2.1,<2dev
+slackweb>=1.0.5,<2dev
