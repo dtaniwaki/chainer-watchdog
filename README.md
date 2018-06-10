@@ -8,6 +8,12 @@
 
 # chainer-watchdog
 
+[![PyPI][pypi-image]][pypi-link]
+[![GitHub license][license-image]][license-link]
+[![PyVersions][pyversions-image]][pypi-link]
+[![Build Status][build-image]][build-link]
+[![codecov][cov-image]][cov-link]
+
 This Python package provides watchdog functions for Chainer.
 
 ## Prerequisites
@@ -136,3 +142,13 @@ $ mypy --py2 watchdog
 
 Copyright (c) 2018 Daisuke Taniwaki. See [LICENSE](LICENSE) for details.
 
+
+[pypi-image]:  https://img.shields.io/pypi/v/chainer-watchdog.svg
+[pypi-link]:   https://pypi.python.org/pypi/chainer-watchdog
+[license-image]: https://img.shields.io/github/license/dtaniwaki/chainer-watchdog.svg
+[license-link]:  https://github.com/dtaniwaki/chainer-watchdog
+[pyversions-image]: https://img.shields.io/pypi/pyversions/chainer-watchdog.svg
+[build-image]: https://travis-ci.org/dtaniwaki/chainer-watchdog.svg
+[build-link]:  https://travis-ci.org/dtaniwaki/chainer-watchdog
+[cov-image]:   https://codecov.io/gh/dtaniwaki/chainer-watchdog/branch/master/graph/badge.svg
+[cov-link]:    https://codecov.io/gh/dtaniwaki/chainer-watchdog
